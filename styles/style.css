@@ -97,14 +97,14 @@ html {
   --hover-color: #111;
   --visited-color: #fffdf6;
   --project-title-color: #orangered;
-  --project-sidebar-background-color: orangered;
-  --project-sidebar-text-color: wff6200;
+  --project-sidebar-background-color: #303030;
+  --project-sidebar-text-color: #ffffff;
   --heart-color: rgb(255, 255, 255);
   --holding-page-footer-color: #f8f8ff;
   --text-selection-background-color: #fffdf6;
-  --linear-gradient-color-1: #ff5e00;
-  --linear-gradient-color-2: #ff4322;
-  --linear-gradient-color-3: #ffffff;
+  --linear-gradient-color-1: #303030;
+  --linear-gradient-color-2: #303030;
+  --linear-gradient-color-3: #303030;
   --stroke-shadow-color: rgba(0, 0, 0, 0.4);
 }
 
